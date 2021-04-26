@@ -1,0 +1,4 @@
+backend:
+- name: test-blog
++ name: github
++ repo: KaMa75/test-blog
